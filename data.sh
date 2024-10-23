@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo yum -y install git
 sudo yum -y install docker
 sudo systemctl start docker
 sudo systemctl enable docker
